@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/guvi-react-task-2/static/css/main.0763ed80.css",
+    "main.js": "/guvi-react-task-2/static/js/main.a57d2e97.js",
+    "static/media/image1.jpg": "/guvi-react-task-2/static/media/image1.d84c469065b883ac8eb3.jpg",
+    "index.html": "/guvi-react-task-2/index.html",
+    "main.0763ed80.css.map": "/guvi-react-task-2/static/css/main.0763ed80.css.map",
+    "main.a57d2e97.js.map": "/guvi-react-task-2/static/js/main.a57d2e97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0763ed80.css",
+    "static/js/main.a57d2e97.js"
+  ]
+}
